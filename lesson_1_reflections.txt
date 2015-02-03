@@ -2,5 +2,7 @@ How might using version control make you more confident to make changes that cou
 
 
 Now that you have your workspace set up, what do you want to try using Git for?
+I notice that git is a very convinient tool for keep tracking of my documents.
+And I decide to use as my main version control tool.
 
 
